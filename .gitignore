@@ -1,0 +1,11 @@
+# Ignore R project files
+*.Rproj*
+.Rhistory
+.RData
+.DS_Store
+
+# Ignore R package files
+.Rcheck/
+src/*.so
+*.csv
+*.xlsx
